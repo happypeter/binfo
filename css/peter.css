@@ -1,6 +1,6 @@
-
 a {
   text-decoration: none;
+  color: blue;
 }
 
 #navbar {
@@ -9,19 +9,24 @@ a {
   padding-bottom: 1em;
 }
 #wrapper {
-  max-width: 800px;
+  max-width: 660px;
   margin: 0 auto 20px;
   padding-left: 1em;
   padding-right: 1em;
 }
-
+#wrapper .website {
+  margin: 2em 0 1.5em;
+}
+#wrapper h2 {
+  font-size: 1.3em;
+  margin: 2em 0 1.5em;
+}
 pre {
   margin-left: 3%;
   overflow: auto;
 }
 
-#menu
-{
+#menu {
   position: relative;
   background: #dbdbdb no-repeat;
   height: 40px;
@@ -29,20 +34,17 @@ pre {
   margin: 0px 0px 10px 0px;
 }
 
-#menu ul li
-{
+#menu ul li {
   display: inline;
   line-height: 40px;
   padding-left: 3px;
 }
 
-#menu ul li.first
-{
+#menu ul li.first {
   border-left: 0px;
 }
 
-#menu ul li a
-{
+#menu ul li a {
   background-color: transparent;
   background-repeat: repeat-x;
   padding: 8px 12px 8px 12px;
@@ -57,7 +59,7 @@ ul.posts {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: Monaco, 'Courier New', monospace;
   font-size: 80%;
 }
 
