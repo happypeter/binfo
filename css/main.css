@@ -5,6 +5,7 @@ a {
 a.repo {
   padding: 1em;
   font-weight: 500;
+  display: block;
 }
 #navbar {
   padding-left: 5%;
@@ -12,6 +13,8 @@ a.repo {
   padding-bottom: 1em;
 }
 #wrapper {
+  box-sizing: border-box;
+  width: 100%;
   max-width: 660px;
   margin: 0 auto 20px;
   padding-left: 1em;
