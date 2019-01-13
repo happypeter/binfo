@@ -1,6 +1,7 @@
 ---
 layout: post
-title: hello
+name: hello
+title: 你好
 ---
 
 Hello
