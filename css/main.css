@@ -16,9 +16,13 @@ a {
   padding-right: 1em;
   word-break: break-word;
 }
-#wrapper .title {
+.site-title {
   text-align: center;
   margin: 2em 0 1.5em;
+}
+.post-title {
+  text-align: center;
+  margin: 1em 0 1.5em;
 }
 #wrapper h2 {
   font-size: 1.2em;
