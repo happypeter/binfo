@@ -2,36 +2,35 @@ a {
   text-decoration: none;
   color: blue;
 }
-a.repo {
+
+.navbar {
   padding: 1em;
-  font-weight: 500;
-  display: block;
 }
-#navbar {
-  padding-left: 5%;
-  padding-top: 1em;
-  padding-bottom: 1em;
-}
+
 #wrapper {
   box-sizing: border-box;
   width: 100%;
-  max-width: 660px;
+  max-width: 680px;
   margin: 0 auto 20px;
   padding-left: 1em;
   padding-right: 1em;
-  font-family: sans-serif;
+  word-break: break-word;
 }
-#wrapper .title {
+.typo .site-title {
   text-align: center;
   margin: 2em 0 1.5em;
+}
+.typo .post-title {
+  text-align: center;
+  margin: 1em 0 1.5em;
+}
+footer {
+  font-size: 14px;
+  text-align: center;
 }
 #wrapper h2 {
   font-size: 1.2em;
   margin: 2em 0 1.5em;
-}
-pre {
-  margin-left: 3%;
-  overflow: auto;
 }
 
 #menu {

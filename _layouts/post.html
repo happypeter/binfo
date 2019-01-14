@@ -12,10 +12,19 @@
     />
     <title>{{ page.title }}</title>
   </head>
-  <a href="https://happypeter.github.io/binfo" class="repo">Binfo</a>
+  <div class="navbar">
+    <a href="https://happypeter.github.io/binfo">Binfo</a>
+  </div>
+
   <div id="wrapper" class="typo">
-    <h1 class="title">{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.title }}</h1>
     {{ content }} <br />
-    <a href="{{ page.path }}">eidt on GitHub</a>
+    <footer>
+      如果对本页有修正意见，欢迎
+      <a
+        href="https://github.com/happypeter/binfo/blob/gh-pages/{{ page.name }}"
+        >到 GitHub 上编辑本页</a
+      >
+    </footer>
   </div>
 </html>

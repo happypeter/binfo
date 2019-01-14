@@ -212,13 +212,26 @@ mark {
 /* 代码片断 */
 pre,
 code {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Menlo, Monaco, Consolas, 'Andale Mono', 'lucida console',
+    'Courier New', monospace;
 }
 pre {
-  border: 1px solid #ddd;
-  border-left-width: 0.4em;
-  background: #fbfbfb;
-  padding: 10px;
+  padding: calc(0.8em / 0.9);
+  font-size: 0.9em;
+  word-break: initial;
+  word-wrap: initial;
+  white-space: pre;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  background: #f6f6f6;
+  border-radius: 4px;
+}
+pre code {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  border-radius: 0;
+  background-color: inherit;
 }
 
 /* 底部印刷体、版本等标记 */

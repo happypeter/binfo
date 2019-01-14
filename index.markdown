@@ -10,11 +10,6 @@ title: 快乐区块维基
 - Jan 15 2019 [比特币的多重签名技术  Multisignature](multi-sig.html)
 - Jan 14 2019 [比特币脚本原理](bitcoin-scripts.html)
 
+## 联系方式
 
-## Contact
-
-<blockquote>
-Peter王广忠 微信：happypeter1983
-</blockquote>
-
-[oss]:http://en.wikipedia.org/wiki/Open_source
+[happypeter 的知乎](https://www.zhihu.com/people/peterlovemoney/activities)
