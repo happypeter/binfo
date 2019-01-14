@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 比特币的多重签名技术 Multisignature
 ---
 
