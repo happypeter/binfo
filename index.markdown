@@ -9,6 +9,7 @@ title: 快乐区块维基
 
 - Jan 15 2019 [比特币的多重签名技术 Multisignature](multi-sig.html)
 - Jan 14 2019 [比特币脚本原理](bitcoin-scripts.html)
+- Jan 13 2019 [为何使用地址而不是公钥？](address.html)
 
 ## 联系方式
 
