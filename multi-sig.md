@@ -3,7 +3,6 @@ layout: post
 title: 比特币的多重签名技术 Multisignature
 ---
 
-
 多重签名技术让比特币可以实现非常丰富的功能，例如支付通道和闪电网络，这个看似复杂的概念其实基本原理非常简单，下面来介绍一下。
 
 ## 何为多重签名
@@ -12,23 +11,23 @@ title: 比特币的多重签名技术 Multisignature
 
 多重签名和单签名不同。标准的比特币交易只需要进行单签名，意思是只需要一个私钥签署交易就可以转账成功了。而多重签名就要求交易必须附上来自多方的多个签名。
 
-多重签名交易有时候也被叫做   M-of-N  交易。M 指的是交易生效所需要的签名数量，N 指的是和本次交易相关的各方的总数量。例如：
+多重签名交易有时候也被叫做 M-of-N 交易。M 指的是交易生效所需要的签名数量，N 指的是和本次交易相关的各方的总数量。例如：
 
 - 1-of-2：Alice 和 Bob 有一个共用的比特币地址，他们其中任意一个人的签名都能够花费掉地址中的钱。
 - 2-of-2：Alice 和 Bob 有一个共用的比特币地址，他们两个要共同签名才能花掉地址中的钱。
 
-当然，N 的取值不局限于2，也可以是3、4 甚至更多，M 的值只要小于等于 N 的正整数即可，不同的 M 和 N 取值可以适合不同的应用场景。上面所说的各方共用的比特币地址就是一个多签名地址。
+当然，N 的取值不局限于 2，也可以是 3、4 甚至更多，M 的值只要小于等于 N 的正整数即可，不同的 M 和 N 取值可以适合不同的应用场景。上面所说的各方共用的比特币地址就是一个多签名地址。
 
 ## 多重签名地址
 
 多重签名地址是一种特殊类型的比特币地址，想要转出地址中的钱就需要执行多重签名交易。
 
-Bitcoin Wiki  https://en.bitcoin.it/wiki/Multisignature 上介绍了生成一个 2-of-3 的多重签名地址的过程。简单来讲，一个 M-of-N 的地址需要收集 N 方的地址信息来生成。币一旦转入这个地址就需要 M 方共同签名交易，才能把币转出。
+Bitcoin Wiki https://en.bitcoin.it/wiki/Multisignature 上介绍了生成一个 2-of-3 的多重签名地址的过程。简单来讲，一个 M-of-N 的地址需要收集 N 方的地址信息来生成。币一旦转入这个地址就需要 M 方共同签名交易，才能把币转出。
 
 多重签名地址是 P2SH 类型的地址。普通的比特币地址是由公钥做哈希后得到的，而多重签名地址基于脚本哈希，所以能够实现复杂的交易。关于 P2SH 的原理，这里我们就不展开了。
 
 总之，多重签名地址是多重签名交易的前提。
- 
+
 ## 2-of-3 第三方托管服务
 
 多重签名的意义显然是防止有人单方面转走地址中的钱，从某种角度来提高地址中币的安全性。随着业务类型的不同，M 和 N 的各自取值也会不同，下面我们以支付宝那样的第三方托管服务为例，看一下多重签名的实际业务场景。
@@ -51,5 +50,5 @@ Bitcoin Wiki  https://en.bitcoin.it/wiki/Multisignature 上介绍了生成一个
 
 参考：
 
-- https://en.bitcoin.it/wiki/Multisignature
-- https://www.mycryptopedia.com/multisignature-technology-explained/
+- [https://en.bitcoin.it/wiki/Multisignature](https://en.bitcoin.it/wiki/Multisignature)
+- [https://www.mycryptopedia.com/multisignature-technology-explained/](https://www.mycryptopedia.com/multisignature-technology-explained/)
