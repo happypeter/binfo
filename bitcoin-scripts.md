@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 比特币脚本原理
 ---
 
