@@ -3,9 +3,9 @@ lsi: false
 permalink: none
 markdown: kramdown
 defaults:
-  - 
+  -
     scope:
-    path: ""
+      path: ""
       type: "pages"
     values:
       layout: "post"
