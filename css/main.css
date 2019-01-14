@@ -2,16 +2,11 @@ a {
   text-decoration: none;
   color: blue;
 }
-a.repo {
+
+.navbar {
   padding: 1em;
-  font-weight: 500;
-  display: block;
 }
-#navbar {
-  padding-left: 5%;
-  padding-top: 1em;
-  padding-bottom: 1em;
-}
+
 #wrapper {
   box-sizing: border-box;
   width: 100%;
