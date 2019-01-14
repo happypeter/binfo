@@ -16,13 +16,17 @@ a {
   padding-right: 1em;
   word-break: break-word;
 }
-.site-title {
+.typo .site-title {
   text-align: center;
   margin: 2em 0 1.5em;
 }
-.post-title {
+.typo .post-title {
   text-align: center;
   margin: 1em 0 1.5em;
+}
+footer {
+  font-size: 14px;
+  text-align: center;
 }
 #wrapper h2 {
   font-size: 1.2em;
