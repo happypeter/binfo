@@ -11,6 +11,8 @@ title: 快乐区块维基
 - Jan 14 2019 [比特币脚本原理](bitcoin-scripts.html)
 - Jan 13 2019 [为何使用地址而不是公钥？](address.html)
 
+[全部文章](all.html)
+
 ## 联系方式
 
 [happypeter 的知乎](https://www.zhihu.com/people/peterlovemoney/activities)

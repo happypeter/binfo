@@ -1,0 +1,50 @@
+---
+layout: default
+title: 快乐区块维基
+---
+
+欢迎来到快乐区块维基（ Binfo ）。
+
+## 全部文章
+
+- Jan 11 2019[Bitcoin Core](bitcoin-core.html)
+- Jan 10 2019[写给 Bitcoiner 的 Mimblewimble 简介](mimblewimble.html)
+- Jan 09 2019[椭圆曲线签名算法 ECDSA](ecdsa.html)
+- Jan 08 2019[椭圆曲线加密的数学原理](ecdsa-math.html)
+- Jan 07 2019[如何生成比特币地址和私钥](gen-address-private-key.html)
+- Jan 06 2019[交易延展性](transaction-malleability.html)
+- Jan 05 2019[比特币发行总量的精确计算](supply.html)
+- Jan 03 2019[Peter Report December 2018](dec-report.html)
+- Jan 02 2019[Payment Channels](payment-channels.html)
+- Jan 01 2019[My 2019 Predictions](my-2019-predictions.html)
+- Dec 31 2018[快乐的 2018](zh-happy-2018.html)
+- Dec 30 2018[My Happy 2018](my-happy-2018.html)
+- Dec 29 2018[What is VM?](what-is-vm.html)
+- Dec 27 2018[A Gentle Intro to RISC-V](en-intro-risc-v.html)
+- Dec 27 2018[指令集架构 RISC-V 简介](zh-intro-risc-v.html)
+- Dec 25 2018[Proof of Authority](proof-of-authority.html)
+- Dec 23 2018[什么是非对称加密？](rsa.html)
+- Dec 21 2018[什么是比特币 Bitcoin ？](what-is-btc.html)
+- Dec 19 2018[比特币的交易是如何工作的](btc-transaction.html)
+- Dec 17 2018[加密货币简史](history-of-cryptocurrency.html)
+- Dec 16 2018[戴维的 B-money](b-money).html)
+- Dec 15 2018[肉数桥梁 POW](pow.html)
+- Dec 14 2018[IPFS 和 Filecoin](ipfs-filecoin.html)
+- Dec 14 2018[Token 代币](token.html)
+- Dec 13 2018[五年经历一个信仰](belief.html)
+- Dec 12 2018[有向无环图 DAG ](dag.html)
+- Dec 12 2018[Peter 眼中的自由](peter-freedom.html)
+- Dec 11 2018[维基经济学 Wikinomics](wikinomics.html)
+- Dec 10 2018[分布式自治组织 DAO](dao.html)
+- Dec 09 2018[两军问题](two-army-problem.html)
+- Dec 08 2018[实用拜占庭容错算法 pBFT](pbft.html)
+- Dec 07 2018[编程语言的分类](programming-languages.html)
+- Dec 06 2018[通过 ruby sdk 操作 ckb](ruby-sdk-ckb.html)
+- Dec 05 2018[Ubuntu1604 系统上编译 Nervos ckb](ubuntu-ckb.html)
+- Dec 04 2018[Hello Rust](hello-rust.html)
+- Dec 03 2018[P2P 网络](p2p.html)
+- Dec 02 2018[2018 年 11 月份 Peter 工作汇报](nov-report.html)
+- Dec 01 2018[开源文化中的 fork 是啥意思?](open-source-fork.html)
+- Nov 30 2018[如何为自己的 Github 项目选择 License?](license.html)
+- Nov 29 2018[什么是开源?](what-is-open-source.html)
+- Nov 28 2018[开源往事之 Linux 崛起](rise-of-linux.html)
