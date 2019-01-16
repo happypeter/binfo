@@ -12,7 +12,7 @@ Mimblewimble 是一个协议，跟 Bitcoin 相比(注意这里的 B 是大写，
 
 Mimblewimble 的主要卖点就是隐私，这是通过融合了两项技术达成的。其中一项继承自 Adam Back 提出的机密交易（confidential transactions）。机密交易可以通过使用 blinding factors 来对交易金额进行加密。使用了机密交易之后，交易数额只有交易双方知道，但是网络上的其他人依然可以见证交易防止双花。Mimblewimble 的交易跟机密交易类似，不同的是发送方会选出很多 blinding factors，接收方会从中选出一部分，通过手里的这部分 blinding factors 来证明自己有权利使用接收到的币。另外一项是混币技术，说白点就是把比特币发送地址和接收地址的关系打断的一种技术，达到无法追踪的效果。
 
-同时，Mimblewimble 还实现了非常好的可扩展性。隐私技术通常会让加密货币的性能下降，因为会涉及到大量的加密解密运算。而 Mimblewimble 却可以增加区块链的可扩展性，因为采用了 Mimblewimble 技术之后，一个区块中会把所有的交易融合到一个交易中。这样不但完全看不出是由哪个输入提供了特定的输出，提高了隐私性，同时也让区块变小节省了存储空间提高了可扩展性。
+同时，Mimblewimble 还实现了非常好的可扩展性。隐私技术通常会让加密货币的性能下降，因为会涉及到大量的加密解密运算。而 Mimblewimble 却可以增加区块链的可扩展性，因为采用了 Mimblewimble 技术之后，很多过往的交易是可以删除的。
 
 这样，我们就清楚了 Mimblewimble 名字的由来以及它的两个主要优势：隐私和可扩展性。
 
@@ -30,7 +30,7 @@ Mimblewimble 的主要卖点就是隐私，这是通过融合了两项技术达�
 
 说到竞争币，我们就会聊到实现了 Mimblewimble 的两个现有区块链项目：Grin 和 Beam。
 
-Grin 项目是 Mimblewimble 的一个实现。我们首先要明确协议是一个东西，而协议的实现是另外一个东西，例如 Bitcoin 是一个协议，而 Bitcoin Core 是它的一个实现。Mimblewimble 也是一个协议，而 Grin 就是 Mimblewimble 的一个实现。Grin 项目使用了自己的区块链和自己的加密货币，项目创始人也是用的化名。Grin 项目采用 Rust 语言开发，代码可以在 GitHub 上找到 https://github.com/mimblewimble/grin。
+[Grin](grin) 项目是 Mimblewimble 的一个实现。我们首先要明确协议是一个东西，而协议的实现是另外一个东西，例如 Bitcoin 是一个协议，而 Bitcoin Core 是它的一个实现。Mimblewimble 也是一个协议，而 Grin 就是 Mimblewimble 的一个实现。Grin 项目使用了自己的区块链和自己的加密货币，项目创始人也是用的化名。Grin 项目采用 Rust 语言开发，代码可以在 GitHub 上找到 https://github.com/mimblewimble/grin。
 
 另外一个更新的项目叫做 Beam，https://www.beam.mw/ ，Beam 项目是用 C++ 开发的。
 
