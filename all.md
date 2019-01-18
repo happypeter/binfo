@@ -6,7 +6,8 @@ title: 快乐区块维基
 
 ## 全部文章
 
-- Jan 16 2019 [Grin](grin.html)
+- Jan 18 2019 [比特币的隐私性](bitcoin-privacy.html)
+- Jan 17 2019 [Grin](grin.html)
 - Jan 16 2019 [比特币的 P2SH 机制](p2sh.html)
 - Jan 15 2019 [比特币的多重签名技术 Multisignature](multi-sig.html)
 - Jan 14 2019 [比特币脚本原理](bitcoin-scripts.html)
