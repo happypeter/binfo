@@ -26,6 +26,10 @@ a {
   margin: 1em 0 1.5em;
   font-weight: 600;
 }
+img {
+  width: 100%;
+  display: block;
+}
 footer {
   font-size: 14px;
   text-align: center;
