@@ -6,6 +6,7 @@ title: 快乐区块维基
 
 ## 全部文章
 
+- Jan 19 2019 [比特币的 Nonce 是什么？](nonce.html)
 - Jan 18 2019 [比特币的隐私性](bitcoin-privacy.html)
 - Jan 17 2019 [Grin](grin.html)
 - Jan 16 2019 [比特币的 P2SH 机制](p2sh.html)
@@ -88,12 +89,12 @@ title: 快乐区块维基
 - Sep 30 2018 [公钥密码学](269.html)
 - Sep 29 2018 [密码朋克运动](268.html)
 - Sep 28 2018 [什么是密码学](267.html)
-- Sep 27 2018 [哈希算法](266.html)
+- Sep 27 2018 [哈希算法](hash.html)
 - Sep 26 2018 [数字证书](265.html)
 - Sep 25 2018 [数字签名](264.html)
 - Sep 24 2018 [加密通信](263.html)
 - Sep 23 2018 [论区块链第二层方案的合理性](262.html)
-- Sep 22 2018 [加密货币背后的密码学之 Merkle Tree](261.html)
+- Sep 22 2018 [加密货币背后的密码学之 Merkle Tree](merkle.html)
 - Sep 21 2018 [Naval 聊复利](260.html)
 - Sep 20 2018 [Alogia 的算法会取代 POW 吗？](259.html)
 - Sep 19 2018 [Nervos 永恒的初次 DApp 课程简介](258.html)
