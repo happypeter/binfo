@@ -1,5 +1,5 @@
 ---
-title: 肉数桥梁 POW
+title: POW 工作量证明
 ---
 
 关于 POW 工作量证明，之前 Peter 写过一篇《工作量证明》 https://zhuanlan.zhihu.com/p/42694998 ，主要介绍了比特币的  POW 的技术细节。另外一篇文章《平行世界假想》中 https://zhuanlan.zhihu.com/p/41376603 我聊了数字世界会从肉身（ physical ）世界中独立出来，称为跟肉身世界耦度非常低的平行世界。今天这篇来从宏观度来聊 POW ，看看 POW 如何被称为是肉身世界和数字世界的桥梁。
