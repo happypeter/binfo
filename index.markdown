@@ -7,13 +7,12 @@ title: 快乐区块维基
 
 ## 最新发布
 
-- Jan 19 2019 [比特币的 Nonce 是什么？](nonce.html)
-- Jan 18 2019 [比特币的隐私性](bitcoin-privacy.html)
-- Jan 17 2019 [Grin](grin.html)
-- Jan 16 2019 [比特币的 P2SH 机制](p2sh.html)
-- Jan 15 2019 [比特币的多重签名技术 Multisignature](multi-sig.html)
-- Jan 14 2019 [比特币脚本原理](bitcoin-scripts.html)
-- Jan 15 2019 [比特币的多重签名技术 Multisignature](multi-sig.html)
+- Jan 19 2019 [比特币的 Nonce 是什么？](nonce)
+- Jan 18 2019 [比特币的隐私性](bitcoin-privacy)
+- Jan 17 2019 [Grin](grin)
+- Jan 16 2019 [比特币的 P2SH 机制](p2sh)
+- Jan 15 2019 [比特币的多重签名技术 Multisignature](multi-sig)
+- Jan 14 2019 [比特币脚本原理](bitcoin-scripts)
 
 ## 标签
 
