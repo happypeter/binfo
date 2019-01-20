@@ -3,7 +3,7 @@ layout: default
 title: 快乐区块维基
 ---
 
-欢迎来到快乐区块维基（ Binfo ）。学习区块链首先要对[比特币](what-is-btc)有基本的了解。
+欢迎来到快乐区块维基（ Binfo ）。学习[区块链](blockchain)首先要对[比特币](what-is-btc)有基本的了解。
 
 ## 最新发布
 
