@@ -17,7 +17,7 @@ title: 快乐区块维基
 
 ## 标签
 
-[全部文章](all.html)
+[全部文章](https://github.com/happypeter/binfo)
 
 ## 联系方式
 
