@@ -7,12 +7,12 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Jan 25 2019 [赛博空间独立思想](cyberspace)
 - Jan 22 2019 [比特币的手续费原理](fee)
 - Jan 19 2019 [比特币的 Nonce 是什么？](nonce)
 - Jan 18 2019 [比特币的隐私性](bitcoin-privacy)
 - Jan 17 2019 [Grin](grin)
 - Jan 16 2019 [比特币的 P2SH 机制](p2sh)
-- Jan 15 2019 [比特币的多重签名技术 Multisignature](multi-sig)
 
 ## 标签
 
