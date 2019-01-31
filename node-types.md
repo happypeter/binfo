@@ -1,14 +1,57 @@
 ---
-titile: 比特币网络节点分类
+title: 比特币网络节点分类
 ---
 
-# Work In Progress
+[比特币网络](bitcoin-network)指的就是运行了比特币 P2P 协议的很多节点的集合，每个节点地位上都是平等的，但是由于侧重的功能不同，其实比特币节点是分不同的角色的。
 
-- The term "bitcoin network" refers to the collection of nodes running the bitcoin P2P protocol
+## 节点要完成的功能
 
-  - Some nodes, called full nodes, also maintain a complete and up-to-date copy of the blockchain.
-    - Bitcoin Core client is a full blockchain node. I
+引用[精通比特币](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc#full_node_reference)上的观点，比特币节点的功能有四个：钱包，挖矿，保存完整区块链，以及路由。
 
-  - Some mining nodes are also full nodes, maintaining a full copy of the blockchain, while others are lightweight nodes participating in pool mining and depending on a pool server to maintain a full node. 
-  - wallet
-  - Routing node
+![](https://img.haoqicat.com/2019013101.jpg)
+
+第一个功能是[钱包](wallet)，这里的钱包指的是钱包软件，而非地址加私钥本身。钱包的功能包含收集钱包中的地址相关的 [UTXO](utxo) ，以便统计出地址余额，构建交易，发送交易等等转账相关的功能。
+
+第二个功能是[挖矿](mining)。挖矿节点会去收集交易，制作区块头，然后参与 [POW](pow) 算力比拼，找到[随机数](nonce)，生成区块并获得[出块奖励和手续费](incentive)。
+
+第三个功能是保存完整区块链。区块链数据庞大，所以并不是所有比特币节点都会下载完整的最新的区块链。
+
+第四个功能是路由。稍后会看到，所有类型的节点都会有这个功能。所有的节点有有义务帮助其他节点去验证和扩散交易，去查找其他节点，去维持整个网络的连接。
+
+这就是节点的四项功能了。
+
+## 节点的不同角色
+
+但是，节点是分不同角色的，每个角色的节点都去完成自己所擅长的功能。
+
+![](https://img.haoqicat.com/2019013102.jpg)
+
+第一种角色是普通全节点。一个节点只要是下载了完整且最新的区块链数据，那它就是一个全节点了。全节点当然也拥有路由功能，另外还可能包含或者不包含其他的功能。全节点是整个网络的脊梁，因为只有全节点才能真正自己去验证交易。马上要介绍到的轻节点，本身没有完整的链，所以就不能看到所有的交易历史，不能直接去验证交易，需要通过向全节点去请求必要的交易数据。
+
+第二种角色是 [Bitcoin Core](bitcoin-core) 全节点，是功能最为全面的节点。Bitcoin Core 是比特币的参考实现，是比特币网络上最为流行的客户端软件。安装了 Bitcoin Core 的节点，首先是一个全节点，另外还拥有钱包和挖矿的能力。
+
+第三种是 [SPV](spv) 钱包节点。这种节点的通常只关心和自己钱包中的地址相关部分交易，不会下载完整的区块链，所以也被称为轻节点。钱包通常都是安装在移动设备上，资源有限所以适合使用轻节点。轻节点可以去发起简单支付验证（ SPV ），向全节点请求数据来验证交易。
+
+第四种是独立挖矿节点。挖矿节点的主要工作当然是挖矿，独立的，也就是不加人矿池的节点要挖矿是需要下载完整区块链的，所以独立挖矿节点也是全节点。
+
+以上四种就是比特币 P2P 网络上的基本节点角色了。
+
+## 矿池节点
+
+除了这四类基本节点，涉及到矿池挖矿，还有另外的两种节点。
+
+![](https://img.haoqicat.com/2019013103.jpg)
+
+首先一种是矿池服务器。很多比特币矿工会凑到一起组成矿池来一起挖矿。矿池会搭建专门的矿池服务器来跟比特币的 P2P 网络直接通信，保存了完整的区块链，挖矿节点就只需要跟服务器通信。
+
+另外一种是矿池挖矿节点。虽然也参与挖矿，但是这类节点上只拼命运算，而不会去保存完整的区块链，这样就节约了存储成本。
+
+跟矿池的这种服务器客户机架构类似，钱包也有类似的钱包服务器节点，可以让轻节点通过特定的协议去更加高效的获取最新区块链数据。
+
+## 总结
+
+关于节点的分类，我们就介绍到这里了。节点要完成四项功能，分别是挖矿，钱包，路由和存储区块链。不同角色的节点也会侧重不同的功能。另外，也不是所有的节点都直接连接到比特币 P2P 网络，例如一些轻钱包节点，或者矿池挖矿节点，会跟特定服务器去通信，这些服务器是比特币的 P2P 网络上的节点。
+
+参考：
+
+- https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc#full_node_reference

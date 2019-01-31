@@ -85,7 +85,7 @@ title: 快乐区块维基
 - Sep 22 2018 [加密货币背后的密码学之 Merkle Tree](merkle.html)
 - Sep 20 2018 [Alogia 的算法会取代 POW 吗？](259.html)
 - Sep 16 2018 [以太坊的 Gas 机制](255.html)
-- Sep 09 2018 [什么是加密货币钱包？](249.html)
+- Sep 09 2018 [什么是加密货币钱包？](wallet)
 - Sep 08 2018 [HTTP 请求和 JSON-RPC](248.html)
 - Sep 07 2018 [合约编程语言 Solidity](247.html)
 - Sep 06 2018 [智能合约入门](246.html)
