@@ -31,7 +31,7 @@ title: 快乐区块维基
 - Dec 25 2018 [Proof of Authority](proof-of-authority.html)
 - Dec 23 2018 [什么是非对称加密？](rsa.html)
 - Dec 21 2018 [什么是比特币 Bitcoin ？](what-is-btc.html)
-- Dec 19 2018 [比特币的交易是如何工作的](btc-transaction.html)
+- Dec 19 2018 [比特币的交易是如何工作的](btc-transaction)
 - Dec 17 2018 [加密货币简史](history-of-cryptocurrency.html)
 - Dec 16 2018 [戴维的 B-money](b-money).html)
 - Dec 15 2018 [肉数桥梁 POW](pow.html)
