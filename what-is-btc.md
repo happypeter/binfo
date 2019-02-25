@@ -44,5 +44,6 @@ title: 什么是比特币 Bitcoin ？
 
 参考：
 
+- [比特币入门十问](qa101)
 - https://bitcoin.org/en/
 - http://happypeter.github.io/bitcoin_basics/book/028_andreas_linux.html
