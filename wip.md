@@ -3,6 +3,7 @@ title: Work In Progress
 ---
 
 [比特币网络](bitcoin-network)
+[Oracles](oracles)
 
 - [快乐区块维基的行文套路](pattern)
 
