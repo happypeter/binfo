@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Mar 09 2019 [One Time Pad](otp)
 - Feb 25 2019 [比特币入门十问](qa101)
 - Feb 10 2019 [Diffie–Hellman 密钥交换](dh)
 - Feb 01 2019 [比特币白皮书的计算部分详解](calculations)
