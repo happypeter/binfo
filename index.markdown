@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Apr 11 2019 [胖协议](fat-protocol)
 - Apr 11 2019 [为何使用 Rust 语言？](why-rust)
 - Mar 09 2019 [One Time Pad](otp)
 - Feb 25 2019 [比特币入门十问](qa101)
