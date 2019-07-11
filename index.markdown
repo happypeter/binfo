@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- July 11 2019 [长尾理论](long-tail)
 - July 10 2019 [胖协议](fat-protocol)
 - Apr 11 2019 [为何使用 Rust 语言？](why-rust)
 - Mar 09 2019 [One Time Pad](otp)
