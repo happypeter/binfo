@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- July 13 2019 [自由的加密工具 GPG](gpg)
 - July 12 2019 [HTTPS 工作原理](https)
 - July 11 2019 [长尾理论](long-tail)
 - July 10 2019 [胖协议](fat-protocol)
