@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- July 15 2019 [加密共识](cons)
 - July 14 2019 [BitTorrent 下载](bt)
 - July 13 2019 [自由的加密工具 GPG](gpg)
 - July 12 2019 [HTTPS 工作原理](https)
