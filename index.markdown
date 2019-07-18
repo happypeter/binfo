@@ -7,6 +7,8 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- July 18 2019 [互联网名人传之《马克安德森》](marc)
+- July 17 2019 [什么是 ASIC 挖矿?](asic)
 - July 16 2019 [对称加密算法之王 AES](aes)
 - July 15 2019 [加密共识](cons)
 - July 14 2019 [BitTorrent 下载](bt)
