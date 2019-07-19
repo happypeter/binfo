@@ -1,12 +1,12 @@
 ---
-title: 互联网奠基人传之《 John Barlow 》
+title: 互联网奠基人传之《网络空间独立宣言之父 John Barlow 》
 ---
 
 出生于1947年的 John Perry Barlow 是诗人和作家，但是更著名的，他是一个网络自由主义者 cyberlibertarian 。他参与创立了电子边疆基金会 Electronic Frontier Foundation 和自由出版基金会 Freedom of the Press Foundation ，发表过著名的《网络空间独立宣言》。
 
 ![](https://img.haoqicat.com/2019071901.jpg)
 
-上图是 Barlow 再朗读《宣言》。
+上图是 Barlow 朗读《宣言》。
 
 ## 电子边疆基金会 
 
