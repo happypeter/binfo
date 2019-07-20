@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- July 19 2019 [互联网奠基人传之《 Web 之父-- Tim Berners-Lee 》](lee)
 - July 19 2019 [互联网奠基人传之《网络空间独立宣言之父--John Barlow 》](barlow)
 - July 18 2019 [互联网奠基人传之《互联网民用化之父--马克安德森》](marc)
 - July 17 2019 [什么是 ASIC 挖矿?](asic)
