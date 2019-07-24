@@ -8,6 +8,7 @@ title: 快乐区块维基
 ## 最新发布
 
 
+- July 24 2019 [互联网奠基人传之《 Web App 之父 Paul Graham 》](pg)
 - July 23 2019 [Web3.0 的宏观架构](web3)
 - July 22 2019 [互联网奠基人传之《自由软件之父 -- Richard Stallman 》](rms)
 - July 21 2019 [互联网奠基人传之《密码朋克之父 -- John Gilmore 》](gil)
