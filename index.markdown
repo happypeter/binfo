@@ -7,6 +7,8 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- July 28 2019 [互联网奠基人传之《 Unix 之父-- Ken Thompson 》
+](ken)
 - July 27 2019 [互联网奠基人传之《 Internet 之父 Vint Cerf 》
 ](vint)
 - July 26 2019 [互联网奠基人传之《 Email 之父 Ray Tomlinson 》](ray)
