@@ -7,10 +7,9 @@ title: 快乐区块维基
 
 ## 最新发布
 
-- July 28 2019 [互联网奠基人传之《 Unix 之父-- Ken Thompson 》
-](ken)
-- July 27 2019 [互联网奠基人传之《 Internet 之父 Vint Cerf 》
-](vint)
+- July 29 2019 [预言机 Oracle](oracle)
+- July 28 2019 [互联网奠基人传之《 Unix 之父-- Ken Thompson 》](ken)
+- July 27 2019 [互联网奠基人传之《 Internet 之父 Vint Cerf 》](vint)
 - July 26 2019 [互联网奠基人传之《 Email 之父 Ray Tomlinson 》](ray)
 - July 25 2019 [互联网奠基人传之《 Linux 之父 Linus Torvalds 》](linus)
 - July 24 2019 [互联网奠基人传之《 Web App 之父 Paul Graham 》](pg)
