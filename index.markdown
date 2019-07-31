@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- July 31 2019 [凯撒密码](caesar)
 - July 30 2019 [伪随机数](prandom)
 - July 29 2019 [预言机 Oracle](oracle)
 - July 28 2019 [互联网奠基人传之《 Unix 之父-- Ken Thompson 》](ken)
