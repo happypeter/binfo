@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Aug 2 2019 [加密之剑 PGP -- Pretty Good Privacy](pgp)
 - Aug 1 2019 [密码学圣战](crypto-war)
 - July 31 2019 [凯撒密码](caesar)
 - July 30 2019 [伪随机数](prandom)
