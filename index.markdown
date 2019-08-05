@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Aug 5 2019 [块密码 Block Cipher](bcipher)
 - Aug 4 2019 [为何不都用公钥密码学？](all-pub)
 - Aug 4 2019 [公钥密码学 Public Key Cryptography](pub-crypto)
 - Aug 3 2019 [加密经济学](crypto-eco)
