@@ -1,5 +1,5 @@
 ---
-title: Mac 消息认证码
+title: 消息认证码 MAC
 ---
 
 今天聊的 Mac ，不是苹果电脑名字，也不是 Mac 地址中的 Mac ，而是指消息认证码 Message authentication code 。Mac 有时候也被叫做 tag ，是用来认证一段信息用的。所谓认证，就是要保证两点：第一，信息的发出者的确是声称的那个人，第二，信息没有被篡改过。
