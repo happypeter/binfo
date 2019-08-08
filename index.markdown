@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Aug 8 2019 [互联网隐私](internet-privacy)
 - Aug 7 2019 [消息认证码 MAC](mac)
 - Aug 6 2019 [流密码 Stream Cipher](scipher)
 - Aug 5 2019 [块密码 Block Cipher](bcipher)
