@@ -7,6 +7,9 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Aug 17 2019 [为何要用户自己持有数据](own-data)
+- Aug 16 2019 [比特币模式的众筹](bitcoin-funding)
+- Aug 14 2019 [美国总统候选人 Andrew Yang 的数据确权政策](yang)
 - Aug 13 2019 [什么是比特币？](bitcoin-what)
 - Aug 12 2019 [RSA 算法--数学推导](rsa-math)
 - Aug 11 2019 [RSA 算法--基本原理](rsa-101)
