@@ -8,7 +8,8 @@ title: 快乐区块维基
 ## 最新发布
 
 
-- Nov 16 2019 [自由主义](libralism)
+- Nov 14 2019 [密码朋克运动](cypherpunk)
+- Nov 14 2019 [自由主义](libralism)
 - Aug 17 2019 [为何要用户自己持有数据](own-data)
 - Aug 16 2019 [比特币模式的众筹](bitcoin-funding)
 - Aug 14 2019 [美国总统候选人 Andrew Yang 的数据确权政策](yang)
