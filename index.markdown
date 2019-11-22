@@ -7,8 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
-
-- Nov 16 2019 [密码朋克运动](cypherpunk)
+- Nov 16 2019 [区块链上的随机数](chain-random)
 - Nov 15 2019 [密码朋克运动](cypherpunk)
 - Nov 14 2019 [自由主义](libralism)
 - Aug 17 2019 [为何要用户自己持有数据](own-data)
