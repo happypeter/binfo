@@ -32,6 +32,8 @@ title: 比特币的隐私性
 
 比特币社区内部也在思考各种改进方案。例如，由核心开发团队提出的 Confidential Transaction 以及 Coinjoin 。后来有人结合这两项技术，提出一套新的加密货币协议，名为 [Mimblewimble](mimblewimble) 。Mimblewimble 暂时还没有被比特币项目采纳。但是实现了 Mimblewimble 的独立区块链项目有两个： [Grin](grin) 和 Beam 。
 
+不过，Jimmy Song 等人有不同的看法[1]。他们认为，隐私和稀缺性存在一定的矛盾。例如，Zcash 和门罗币这些区块链，如果有人某天攻克了 ECC 算法，从而额外伪造了一些新币，那么其他人是无法察觉的。而比特币因为透明，就不存在这个问题。比起隐私，稀缺性当然更重要。对于如何解决隐私问题，好的方式不是直接写入到比特币的核心协议之内。如果未来人们在数字空间都是用无法追踪肉身的网名进行交易，那么直接把网名和和比特币账户绑定，也是可以实现隐私的。
+
 其它的方案还有不少，这里就不一一说了。
 
 ## 总结
@@ -40,4 +42,5 @@ title: 比特币的隐私性
 
 参考：
 
+- [1] https://twitter.com/pierre_rochard/status/1199148556692541440
 - https://bitcointalk.org/index.php?topic=279249.0
