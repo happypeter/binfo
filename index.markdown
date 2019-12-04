@@ -7,6 +7,8 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Dec 2 2019 [写作与绘画](write-draw)
+- Dec 1 2019 [即兴写作技巧](fast-write)
 - Nov 30 2019 [技术写作三步走](three-steps)
 - Nov 16 2019 [区块链上的随机数](chain-random)
 - Nov 15 2019 [密码朋克运动](cypherpunk)
