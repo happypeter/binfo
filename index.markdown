@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Dec 3 2019 [安全是防守能量比攻击能量](power-security)
 - Dec 2 2019 [写作与绘画](write-draw)
 - Dec 1 2019 [即兴写作技巧](fast-write)
 - Nov 30 2019 [技术写作三步走](three-steps)
