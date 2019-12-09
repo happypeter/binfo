@@ -25,7 +25,7 @@ If the digital property right is clear, the data trading market will be much mor
 
 ## Open Speech
 
-The face that large companies rather than us own our data cause lots of issues, one of them is censorship against open speech.
+The fact that large companies rather than us own our data cause lots of issues, one of them is censorship against open speech.
 
 We are now living in a small number of walled gardens. The 
 Internet and Web was designed as a decentralized infrastructure for open speech. But the current reality is that it is very much centralized. Most people spend most of their time on Wechat or Facebook and a few more other walled gardens. They are private for-profit companies, and that's turn out to be problematic.
