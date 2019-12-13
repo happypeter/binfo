@@ -3,10 +3,11 @@ layout: default
 title: 快乐区块维基
 ---
 
-欢迎来到快乐区块维基（ Binfo ）。学习[区块链](blockchain)首先要对[比特币](what-is-btc)有基本的了解。
+欢迎来到快乐区块维基（ Binfo -- Blockchain Info ）。学习[区块链](blockchain)和[比特币](what-is-btc)需要掌握很多基础概念，但是如果去看维基百科或者其他材料，会发现内容都太多太杂。有没有一个 wiki 网站专注提供区块链内容，每一篇瞄准一个概念或者一项技术，短小通俗，定位清晰呢？快乐区块维基就是这样一个网站。目前大部分页面都由 [happypeter](happypeter) 原创，大家可以 [clone 项目](https://github.com/happypeter/binfo)来添加新内容，或者点击每个网页末尾的“到 Github 上编辑本页”来修改当前话题。
 
 ## 最新发布
 
+- Dec 7 2019 [happypeter 是谁？](happypeter)
 - Dec 5 2019 [智能合约入门](smart-c-intro)
 - Dec 4 2019 [DApp 去中心化 App](dapp)
 - Dec 3 2019 [安全是防守能量比攻击能量](power-security)
