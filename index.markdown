@@ -72,4 +72,4 @@ title: 快乐区块维基
 
 ## 联系方式
 
-[happypeter 的知乎](https://www.zhihu.com/people/peterlovemoney/activities)
+[happypeter 的知乎](https://www.zhihu.com/people/peterlovemoney/activities)  ~ [happypeter 的 Twitter](https://twitter.com/happypeter1983)
