@@ -7,6 +7,10 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Dec 18 2019 [Nervos 助力加密经济](nervos-ce)
+- Dec 17 2019 [不可替代代币 NFT](nft)
+- Dec 16 2019 [数字证书](cert)
+- Dec 14 2019 [公信数据](trusted-data)
 - Dec 7 2019 [happypeter 是谁？](happypeter)
 - Dec 5 2019 [智能合约入门](smart-c-intro)
 - Dec 4 2019 [DApp 去中心化 App](dapp)
