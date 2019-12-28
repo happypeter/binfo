@@ -46,3 +46,4 @@ HTTPS 就是安全的 HTTP 的意思，是一套用在浏览器和服务器之�
 - https://www.youtube.com/watch?v=33VYnE7Bzpk
 - https://www.youtube.com/watch?v=UbMlPIgzTxc&list=PLSNNzog5eyduzyJ8_6Je-tYOgMHvo344c
 - https://en.wikipedia.org/wiki/Certificate_authority
+- https://www.youtube.com/watch?v=T4Df5_cojAs
