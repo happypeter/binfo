@@ -7,6 +7,8 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Jan 04 2019 [数据确权](data-property)
+- Jan 03 2019 [社会自动化](society-auto)
 - Jan 02 2019 [《 Web3.0 架构》写作主线](web3-core)
 - Dec 21 2019 [什么是密码学？](cryptography-whatis)
 - Dec 20 2019 [加密通信](encrypt)
