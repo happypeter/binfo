@@ -7,6 +7,8 @@ title: 快乐区块维基
 
 ## 最新发布
 
+
+
 - Jan 05 2020 [用户渴望自持数据的几个场景](real-cases)
 - Jan 04 2020 [数据确权](data-property)
 - Jan 03 2020 [社会自动化](society-auto)
