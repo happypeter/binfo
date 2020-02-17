@@ -2,3 +2,8 @@
 
 - 本地生活就是对应美团
 - 清洁能源，对应[特斯拉](tesla-inspire)
+
+
+- [垄断之善](monoply-pros)
+- [B 站和 UGC 赛道](b)
+- [股市会崩盘吗？](market-crash)

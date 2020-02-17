@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Feb 17 2020 [股市会崩盘吗？](market-crash)
 - Feb 16 2020 [特斯拉启示录：什么样的公司最赚钱？](tesla-inspire)
 - Feb 14 2020 [隔离见证 Segwit](segwit)
 - Feb 13 2020 [椭圆曲线密码学简介](ecc-intro)
