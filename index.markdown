@@ -7,6 +7,16 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Feb 16 2020 [特斯拉启示录：什么样的公司最赚钱？](tesla-inspire)
+- Feb 14 2020 [隔离见证 Segwit](segwit)
+- Feb 13 2020 [椭圆曲线密码学简介](ecc-intro)
+- Feb 13 2020 [数字签名](digi-sig)
+- Feb 12 2020 [论区块链第二层方案的合理性](second-layer)
+- Feb 11 2020 [Algorand 的算法会取代 POW 吗？](algorand)
+- Feb 10 2020 [以太坊的 Gas 机制](eth-gas)
+- Feb 9  2020 [必然且遥远的 DApp](peter-dapp)
+- Feb 8  2020 [以太坊世界观下的 DApp](dapp)
+- Feb 7  2020 [合约编程语言 Solidity](solidity)
 - Feb 6  2020 [暗网](dark-net)
 - Feb 4  2020 [公钥基础设施 PKI](pki)
 - Feb 2  2020 [什么是协议？](protocol)
@@ -28,7 +38,6 @@ title: 快乐区块维基
 - Dec 14 2019 [公信数据](trusted-data)
 - Dec 7 2019 [happypeter 是谁？](happypeter)
 - Dec 5 2019 [智能合约入门](smart-c-intro)
-- Dec 4 2019 [DApp 去中心化 App](dapp)
 - Dec 3 2019 [安全是防守能量比攻击能量](power-security)
 - Dec 2 2019 [写作与绘画](write-draw)
 - Dec 1 2019 [即兴写作技巧](fast-write)
@@ -87,7 +96,8 @@ title: 快乐区块维基
 
 ## 标签
 
-[写作技巧](tag-writing)
+- [写作技巧](tag-writing) 
+- [投资](invest)
 
 ## 联系方式
 

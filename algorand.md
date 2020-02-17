@@ -1,5 +1,5 @@
 ---
-title: Alogia 的算法会取代 POW 吗？
+title: Algorand 的算法会取代 POW 吗？
 ---
 
 最近媒体报道比较多的一个项目叫 Algorand ，是一帮来自 MIT 还有别的学校教授搞的，项目亮点就是它的共识算法。Peter 看了看他们的网站：algorand.com/ ，还有官方博客的文章：https://medium.com/algorand ，发现他们总是拿 POW 算法当靶子，于是我就很不爽，写篇文章站在 POW 的一方辩论一下，从 Algorand 尝试解决的比特币的所谓的三大问题去反击。其中我一个很核心的立论点就是，Algorand 只讨论技术，但是对经济激励，或者说市场博弈的思考严重不足，而这一点是区块链共识算法的一个根本特征。
