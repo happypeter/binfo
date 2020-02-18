@@ -6,5 +6,5 @@ title: Peter 的投资哲学
 
 - [特斯拉启示录](tesla-inspire)
 - [垄断之善](monoply-pros)
-- [B 站和 UGC 赛道](b)
+- [B 站和 UGC 赛道](bili-ugc)
 - [股市会崩盘吗？](market-crash)
