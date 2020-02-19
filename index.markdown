@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Feb 20 2020 [项目评分标签](invest-tags)
 - Feb 19 2020 [B 站和 UGC 赛道](bili-ugc)
 - Feb 18 2020 [垄断之善](monoply-pros)
 - Feb 17 2020 [股市会崩盘吗？](market-crash)
