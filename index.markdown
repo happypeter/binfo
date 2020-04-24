@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- Apr 23 2020 [加密经济的三个支柱](three-pillar)
 - Feb 23 2020 [互联网的电话本 DNS](dns-explained)
 - Feb 21 2020 [软件吃世界](software-eat)
 - Feb 20 2020 [项目评分标签](invest-tags)
