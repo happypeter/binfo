@@ -7,6 +7,7 @@ title: 快乐区块维基
 
 ## 最新发布
 
+- May 12 2020 [端到端加密是一种生活方式](e2e)
 - Apr 24 2020 [比特币实现的一个实质性技术突破](bitcoin-breakthrough)
 - Apr 23 2020 [加密经济的三个支柱](three-pillar)
 - Feb 23 2020 [互联网的电话本 DNS](dns-explained)
