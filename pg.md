@@ -4,7 +4,7 @@ title: 互联网奠基人传之《 Web App 之父 Paul Graham 》
 
 1964年出生的 Paul Graham ，黑客名 pg ，是哈佛大学计算机博士，Lisp 语言专家，硅谷创业教父。从互联网角度，Peter 认为他是 Web App 之父，以及全世界最重要的互联网思想家之一。
 
-![](https://img.haoqicat.com/2019072401.jpg)
+![](https://happypeter.github.io/images/2019072401.jpg)
 
 ## Web App 之父
 

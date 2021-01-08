@@ -14,7 +14,7 @@ Github 官方专门制作了一个网站 https://choosealicense.com/ 帮助大�
 
 开源 License 很多，https://choosealicense.com/licenses/ ，具体的差别可以看一下下面这个图。
 
-![](https://img.haoqicat.com/2018113001.jpg)
+![](https://happypeter.github.io/images/2018113001.jpg)
 
 总结一下，MIT 最自由，简直就是没有任何限制，任何人都可以售卖我的软件，甚至可以用我的名字促销。BSD 和 Apache 协议也很自由，跟 MIT 的区别分别是不允许用作者本人名义促销和保护作者版权。GPL 可以说最霸道，对代码的修改部分也必须是 GPL 的，同时基于 GPL 代码而开发的代码也必须按照 GPL 发布，而 MPL ，也就是 Mozilla Public License 就温和一些，如果后续开发的代码中添加了新文件，同时新文件中也没有用到原来的代码，那么新文件可以不必继续沿用 MPL 。
 

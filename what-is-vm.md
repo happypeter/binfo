@@ -10,7 +10,7 @@ So, what on earth is a VM? When first showed up in the computer world, VM is ori
 
 But VM actually has different kinds. The first is called System VMs(also full virtualization VMs), it provide a substitute for a real machine. We can run full unmodified guest OS, like Linux or Windows, on top of it. Real world examples are VirtualBox and VMware server, to name two most popular ones among developers. The second kind is called Process VMs, which are designed to execute computer programs in a platform-independent environment. The well-known JVM is of this kind, on top of which we can run programs written in Java.
 
-![](https://img.haoqicat.com/2018123001.jpg)
+![](https://happypeter.github.io/images/2018123001.jpg)
 
 The concept of host comes hand in hand with VM. Remember VM is still software, we need to run it on top of a real computer. The physical, "real-world" hardware running the VM is generally referred to as the 'host'. 
 
@@ -61,7 +61,7 @@ Ref:
 
 但VM实际上有不同的种类。 第一种称为 System VM ，系统虚拟机（也称为完全虚拟化虚拟机），它可以替代硬件机器。我们可以在上面运行未经修改的操作系统，如 Linux 或 Windows 。 VirtualBox 和 VMware Server 就属于这类虚拟机，也是大家比较熟悉的。第二种是 Process VM，进程 VM ，它被设计为在独立于平台的环境中执行计算机程序。 众所周知的 JVM 就是这种类型，我们可以在 JVM 上运行 Java 程序。
 
-![](https://img.haoqicat.com/2018123002.jpg)
+![](https://happypeter.github.io/images/2018123002.jpg)
 
 
 Host 是一个跟 VM 紧密相关的概念。VM 毕竟是软件，所以必须要有真正的机器来运行它。上面运行了 VM 的真实机器，就叫做 Host ，宿主机。

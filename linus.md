@@ -4,7 +4,7 @@ title: 互联网奠基人传之《 Linux 之父 Linus Torvalds 》
 
 1969年出生的 Linus Torvalds 是 Linux 操作系统之父，而 Linux 是互联网的基石，所以 Linus 也是互联网的奠基人之一。
 
-![](https://img.haoqicat.com/2019072501.jpg)
+![](https://happypeter.github.io/images/2019072501.jpg)
 
 ## Linux 是互联网的基石
 

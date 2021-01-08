@@ -8,7 +8,7 @@ title: 互联网奠基人传之《 密码朋克之父 -- John Gilmore 》
 
 John 很早就自学了编程。1970年代，他给大型机写的邮件系统，被用于 Jimmy Carter 的总统竞选活动中。1978年他搬家到了湾区。
 
-![](https://img.haoqicat.com/2019072101.jpg)
+![](https://happypeter.github.io/images/2019072101.jpg)
 
 1981年，比尔盖茨面试了 John ，但是后来他还是去了 Bill Joy 的 SUN ，是 SUN 公司的第五个雇员。在 SUN 公司期间，他确立了自己的更加自由化的世界观，他认为个人自由是高于一切的权力。在公司给他布置的任务中，他只去做哪些符合自己价值观的。老板评价他说：
 

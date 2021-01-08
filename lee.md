@@ -8,7 +8,7 @@ title: 互联网奠基人传之《 Web 之父-- Tim Berners-Lee 》
 
 来看看 Tim 生活的时代背景，看看为何是他发明了 Web 。
 
-![](https://img.haoqicat.com/2019072001.jpg)
+![](https://happypeter.github.io/images/2019072001.jpg)
 
 Tim 的父母都是数学家。他们两位是在英国曼彻斯特大学相遇的，当时他们正在开发世界上首款可以在市场上买到的计算机，名为 Mark 1。这款计算机是1951年投放市场的。
 

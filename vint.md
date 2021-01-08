@@ -4,7 +4,7 @@ title: 互联网奠基人传之《 Internet 之父 Vint Cerf 》
 
 1943年出生的 Vint Cerf 是美国互联网先驱，是互联网之父之一，他和 Bob Kahn 共同开发了 TCP/IP 协议。
 
-![](https://img.haoqicat.com/2019072701.jpg)
+![](https://happypeter.github.io/images/2019072701.jpg)
 
 ## 谁是互联网之父？
 

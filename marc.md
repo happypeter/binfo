@@ -30,7 +30,7 @@ title: 互联网奠基人传之《互联网民用化之父--马克安德森》
 
 IE4 最终打败了 Navigator ，这是业内人几乎都知道的历史了。但是马克的战斗并没有停止，他创立了硅谷著名的投资机构 a16z ，目前依然是互联网领域最为活跃的意见领袖之一。
 
-![](https://img.haoqicat.com/2019071801.jpg)
+![](https://happypeter.github.io/images/2019071801.jpg)
 
 2011 年，马克发表了一篇文章 Why Software Is Eating The World ，里面列举的公司，最近十年大都经历了爆炸式的增长。他还是 Github 公司最早的投资人。
 

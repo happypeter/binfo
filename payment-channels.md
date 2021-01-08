@@ -12,7 +12,7 @@ Payment channels are a trust-less mechanism for exchanging bitcoin transactions 
 
 Only two transactions are settle on the Bitcoin blockchain. the first transaction and the last. The first transaction is used to open the channel by locking the funds, and the last one to close channel and get each participant his final balance back. So in a typical payment channel, only two transactions are added to the block chain but an unlimited number of payments can be made between the participants.
 
-![](https://img.haoqicat.com/2019010201.jpg)
+![](https://happypeter.github.io/images/2019010201.jpg)
 
 In short, Payment Channels are mechanisms for under-burdening the blockchain, by moving a lot of transactions out of the Bitcoin blockchain and into private routed channels between users.
 
@@ -35,7 +35,7 @@ Lightning Network is based on the idea of Payment Channels.
 
 Lighting Network is one of the scaling approaches to the Bitcoin blockchain. It’s a routed network of payment channels connected end-to-end, meaning any sender can route a payment from channel to channel until he reaches the receiver, therefore they don't need to set up a channel themselves in the first place.
 
-![](https://img.haoqicat.com/2019010202.jpg)
+![](https://happypeter.github.io/images/2019010202.jpg)
 
 Lightning Network is not a side chain.  It's a overlay network, a layer 2 solution. It’s good to have a basic understanding of payment channels before you dig deeper into the Lightning Network.
 

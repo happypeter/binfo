@@ -26,7 +26,7 @@ DAO 虽然是一个新事物，但是其实它只是世界变得越来越数字�
 
 最后来聊聊 DAO 的技术架构。大致分了五层。
 
-![](https://img.haoqicat.com/2018121001.jpg)
+![](https://happypeter.github.io/images/2018121001.jpg)
 
 最底层，是基础设施层，说白了就是互联网。代表技术是 TCP/IP ，这个是大家天天使用的技术了。
 

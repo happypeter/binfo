@@ -4,7 +4,7 @@ title: 互联网奠基人传之《网络空间独立宣言之父 John Barlow 》
 
 出生于1947年的 John Perry Barlow 是诗人和作家，但是更著名的，他是一个网络自由主义者 cyberlibertarian 。他参与创立了电子边疆基金会 Electronic Frontier Foundation 和自由出版基金会 Freedom of the Press Foundation ，发表过著名的《网络空间独立宣言》。
 
-![](https://img.haoqicat.com/2019071901.jpg)
+![](https://happypeter.github.io/images/2019071901.jpg)
 
 上图是 Barlow 朗读《宣言》。
 
@@ -26,7 +26,7 @@ John Gilmore 也是电子边疆基金会的联合创始人，也是密码朋克�
 
 苹果联合创始人 Steve Wozniak 也是电子边疆的联合创始人。虽然苹果本身是一家封闭产业链的公司，在开源世界广受批评。但是苹果的企业架构主要都是乔布斯的思想，Wozniak 至今保持的自由黑客的风格，他也是比特币的重要支持者之一。
 
-![](https://img.haoqicat.com/2019071902.jpg)
+![](https://happypeter.github.io/images/2019071902.jpg)
 
 互联网之子 Aaron Swartz 在1996年的时候见到 Barlow 并接收了他的网络空间的的想法。上图是 Barlow 和 Swartz 同框。
 

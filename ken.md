@@ -4,7 +4,7 @@ title: 互联网奠基人传之《 Unix 之父-- Ken Thompson 》
 
 1943年出生的 Ken Thompson 是 Unix 操作系统之父，由于 Unix 和互联网的紧密联系，所以 Peter 认为 Ken 也是互联网的奠基人之一。
 
-![](https://img.haoqicat.com/2019072801.jpg)
+![](https://happypeter.github.io/images/2019072801.jpg)
 
 ## Unix 诞生
 

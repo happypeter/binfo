@@ -30,7 +30,7 @@ Richard 号称世界上写代码最多的人之一，所以作品很多，不一
 
 Richard 的江湖地位可以用电影黑客帝国的角色来做个比喻。
 
-![](https://img.haoqicat.com/2019072201.jpg)
+![](https://happypeter.github.io/images/2019072201.jpg)
 
 Richard 发起自由软件运动，是时代的预言家。对应黑客帝国中的角色是预言家 Morpheus 。Morpheus 自己战斗力也很强，对应 Richard 也为 Linux 最终的腾飞奠定了坚实的基础。
 
